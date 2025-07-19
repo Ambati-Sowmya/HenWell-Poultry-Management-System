@@ -121,8 +121,8 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ### 🐔 Batch Management  
 ![Batch Screenshot](screenshots/batch_management.png)  
 
-### 📰 Daily Egg Price Fetcher  (Demo Video)
-(https://github.com/user-attachments/assets/48563145-1992-45f0-a64f-6a7e1f06b566).
+🎥 Daily Egg Price Demo  
+[▶️ Watch the Demo Video](https://github.com/user-attachments/assets/48563145-1992-45f0-a64f-6a7e1f06b566)
 
 ### 🥦 Feed Calculator  
 ![Feed Calculator Screenshot](screenshots/feed_calculator.png)  
