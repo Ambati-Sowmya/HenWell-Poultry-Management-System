@@ -140,7 +140,6 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ![Egg Tracker Screenshot](screenshots/egg_tracker.png)  
 
 ---
-
 ## 🤝 Credits  
 
 **Built by Ambati Venkata Ratna Sowmya**  
