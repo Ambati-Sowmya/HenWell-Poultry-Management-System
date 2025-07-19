@@ -122,7 +122,7 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ![Batch Screenshot](screenshots/batch_management.png)  
 
 ### 📰 Daily Egg Price Fetcher  (Demo Video)
-🎥 [Watch Demo Video](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/issues/1#issue-3245114668)
+🎥 [Watch Demo Video](screenshots/daily_egg_price_demo.mp4) 
 
 ### 🥦 Feed Calculator  
 ![Feed Calculator Screenshot](screenshots/feed_calculator.png)  
