@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Ambati-Sowmya/HenWell-Poultry-Management-System?style=social)
 
 # 🐔 HenWell Poultry Management System
 
