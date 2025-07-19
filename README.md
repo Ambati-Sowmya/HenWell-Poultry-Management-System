@@ -115,8 +115,8 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ### 👤 Registration 
 ![Auth Screenshot](screenshots/registration.png)  
 
-### 👤 Login Page
-![Auth Screenshot](screenshots/login.png)
+### 🔑 Login  
+![Login Screenshot](screenshots/login.png)
   
 ### 🐔 Batch Management  
 ![Batch Screenshot](screenshots/batch_management.png)  
