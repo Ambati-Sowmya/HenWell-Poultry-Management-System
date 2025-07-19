@@ -141,13 +141,6 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 
 ---
 
-## 📜 License  
-**No License (All Rights Reserved)**  
-This repository is for showcasing purposes only.  
-You can **view the code but not reuse, copy, or distribute without permission.**  
-
----
-
 ## 🤝 Credits  
 
 **Built by Ambati Venkata Ratna Sowmya**  
