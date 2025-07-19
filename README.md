@@ -150,4 +150,4 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 
 Uses **Google Maps API, Bootstrap 5, Flask AI model, and PHP + MySQL**  
 
-⭐ *If you like this project, give it a star on GitHub!*  
+
