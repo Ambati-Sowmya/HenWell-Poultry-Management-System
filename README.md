@@ -113,7 +113,7 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ![Auth Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/add3fe6f269ac68bbbee36b2f710d173a67917a4/registration.png)  
 
 ### 🔑 Login  
-![Login Screenshot](screenshots/login.png)
+![Login Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/29958b3c60bcb22f172f37ed8d931c3f8c3f7dde/login.pn)
 
 ### 🏠 Dashboard  
 ![Dashboard Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/e47e1c38f3fbe60e50785d21a698e5520c6d62bb/dashboard.png)
