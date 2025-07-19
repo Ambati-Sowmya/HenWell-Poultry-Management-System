@@ -110,19 +110,19 @@ Now AI model runs at `http://127.0.0.1:5000/predict`
 ## 📸 Screenshots  
 
 ### 👤 Registration 
-![Auth Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/add3fe6f269ac68bbbee36b2f710d173a67917a4/registration.png)  
+![Registration Screenshot](screenshots/registration.png)
 
 ### 🔑 Login  
-![Login Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/29958b3c60bcb22f172f37ed8d931c3f8c3f7dde/login.png)
+![Login Screenshot](screenshots/login.png)
 
 ### 🏠 Dashboard  
-![Dashboard Screenshot](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/e47e1c38f3fbe60e50785d21a698e5520c6d62bb/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.png)  
   
 ### 🐔 Batch Management  
 ![Batch Screenshot](screenshots/batch_management.png)  
 
 ### 📰 Daily Egg Price Fetcher  (Demo Video)
-🎥 [Watch Demo Video](https://github.com/Ambati-Sowmya/HenWell-Poultry-Management-System/blob/6c34c6dc5c5b3dca89f8cb61ad7b80e93c153695/egg_prices.mp4)
+🎥 [Watch Demo Video](screenshots/daily_egg_price_demo.mp4)
 
 ### 🥦 Feed Calculator  
 ![Feed Calculator Screenshot](screenshots/feed_calculator.png)  
